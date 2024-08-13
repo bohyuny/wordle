@@ -1,0 +1,27 @@
+@import "header.css";
+@import "footer.css";
+@import "main.css";
+
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
+li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+  width: 100%;
+}
+
+/* wrap */
+#wrap {
+  width: 1200px;
+  margin: 0 auto;
+}

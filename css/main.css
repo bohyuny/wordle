@@ -6,10 +6,23 @@
   gap: 5px;
 }
 
-.board {
+.timer-des {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.timer-des {
+  font-weight: bold;
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.board-row {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 5px;
+  flex-direction: row;
 }
 
 .board-block {
